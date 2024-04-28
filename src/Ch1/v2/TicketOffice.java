@@ -1,4 +1,4 @@
-package v2;
+package Ch1.v2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

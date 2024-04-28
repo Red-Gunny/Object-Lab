@@ -1,4 +1,4 @@
-package v2;
+package Ch1.v3;
 
 public class Theater {
 
@@ -9,7 +9,6 @@ public class Theater {
     }
 
     public void enter(Audience audience) {
-        /** Audience나 TicketSeller 내부에 직접 접근하지 않고 오로지 sellTo() 만 바라본다 **/
-        ticketSeller.sellTo(audience);
+
     }
 }

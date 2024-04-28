@@ -1,5 +1,4 @@
-package v2;
-
+package Ch1.v1;
 
 public class Bag {
 
